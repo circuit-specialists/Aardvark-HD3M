@@ -1,6 +1,6 @@
 # Aardvark-HD3M
 
-##Specs
+## Specs
 * Gateway Address 
     - 192.168.1.1
 * Open Ports 
