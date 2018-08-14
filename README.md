@@ -11,5 +11,5 @@
 * Operating System
     - Linux
 * Credentials
-    - root
-    - no password
+    - Username: root
+    - Password: 
