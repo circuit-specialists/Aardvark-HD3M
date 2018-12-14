@@ -1,6 +1,9 @@
 # Aardvark-HD3M
 
 ## Specs
+* WiFi Credentials
+    - SSID: WiFi_Endoscope
+    - Password: 00000000
 * Gateway Address 
     - 192.168.1.1
 * Open Ports 
@@ -13,3 +16,6 @@
 * Credentials
     - Username: root
     - Password: 
+* URIs
+	- 447035/50/
+	- /resolution/filename
