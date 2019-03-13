@@ -17,5 +17,6 @@
     - Username: root
     - Password: 
 * URIs
+    - http://192.168.1.1/cgi-bin/luci?
 	- 447035/50/
 	- /resolution/filename
